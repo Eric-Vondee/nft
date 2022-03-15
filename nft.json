@@ -1,0 +1,12 @@
+{
+    "name": "nft name",
+    "description": "Description of your unique nft",
+    "attributes": [
+        {
+        "trait_type": "Base", 
+        "value": "Goldie"
+        }
+], 
+    "image": "https://ipfs.io/ipfs/<CID of your uploaded image>"
+}
+
